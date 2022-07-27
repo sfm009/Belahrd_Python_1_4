@@ -20,8 +20,7 @@ TODAY_LOG = [
 
 
 def count_elements(collection: list, element: Any) -> int:
-    # TODO вставить код сюда
-    count = None
+    count = collection.count("500 Error")
     return count
 
 
